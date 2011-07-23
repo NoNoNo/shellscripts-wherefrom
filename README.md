@@ -1,6 +1,6 @@
 **Reads or sets the MacOS X Spotlight metadata 'kMDItemWhereFroms' of a file**
 
-* Usage: `wherefrom \$FILE [\$WHEREFROM]`
+* Usage: `wherefrom $FILE [$WHEREFROM]`
 
 Requires:
 
